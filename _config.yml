@@ -1,0 +1,9 @@
+name: "The Dogecoin Foundation"
+description: "Serving the Dogecoin Community."
+
+url: "http://Laika1954.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
