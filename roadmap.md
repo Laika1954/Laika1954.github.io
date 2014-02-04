@@ -53,7 +53,7 @@ title: Our Initiatives
 				    <div id="collapseOne" class="panel-collapse collapse">
                       <div class="panel-body row" style="padding-top:0px">
 						<p style="padding:0px 15px 20px 15px"><em>All following charity wallet addresses are managed by the charities themselves. Donations go straight to the charity and are not handled by the Dogecoin Foundation in any way.</em></p>
-						{% include dcdental.md %}
+						
                       <div class="panel-body row">
 					    <div class="col-md-2" style="text-align:center">
 						  <img src="/img/AIDSRibbon.png" />
