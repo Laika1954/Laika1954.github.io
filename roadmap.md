@@ -1,5 +1,6 @@
 ---
 type: roadmap
+title: Roadmap
 ---
 
 <!DOCTYPE html>
@@ -101,7 +102,7 @@ type: roadmap
 						
                       <div class="panel-body row">
 						{% for post in site.posts limit: 10 %} 
-							{% include post %}
+							<p>{{ post.wallet_address }}</p>
 						{% endfor %}
 					    <div class="col-md-2" style="text-align:center">
 						  <img src="/img/AIDSRibbon.png" />
