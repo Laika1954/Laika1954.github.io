@@ -1,4 +1,5 @@
 ---
+layout: default_charity
 type: charity
 name: Douglas County Dental Clinic
 url: http://www.dcdclinic.org/
